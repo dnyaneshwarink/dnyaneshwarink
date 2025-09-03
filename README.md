@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dnyaneshwarink
 - 👀 I’m interested in learning to code and help others and also enhance my coding skills 
-- 🌱 I’m currently learning CSE -Ads
+- 🌱 I’m currently learning CSE -AIDS
 - 💞️ I’m looking to collaborate on learning to code
 - 📫 How to reach me mail me
 - 😄 Pronouns: ...
